@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "001. Gün", "001. Gün", "{EA22B718-0A2B-42DF-A0E1-4185CE5A1238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDBFirst", "EFDBFirst\EFDBFirst.csproj", "{D1CC92BC-2487-448C-A873-7CF1E81BCC7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1CC92BC-2487-448C-A873-7CF1E81BCC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1CC92BC-2487-448C-A873-7CF1E81BCC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1CC92BC-2487-448C-A873-7CF1E81BCC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1CC92BC-2487-448C-A873-7CF1E81BCC7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D1CC92BC-2487-448C-A873-7CF1E81BCC7D} = {EA22B718-0A2B-42DF-A0E1-4185CE5A1238}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F2D518E-4826-402B-AE75-0B8BCDA969C1}
+	EndGlobalSection
+EndGlobal
